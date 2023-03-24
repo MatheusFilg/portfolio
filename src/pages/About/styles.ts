@@ -9,10 +9,9 @@ export const AboutContainer = styled.div`
   text-align: justify;
 
   img {
-    width: 22.5rem;
-    height: 25rem;
+    width: 18rem;
+    height: 32rem;
 
-    border-radius: 50%;
     border: 3px solid ${(props) => props.theme['orange-500']};
     box-shadow: 0.1rem 0.1rem 1rem 0.1rem
       ${(props) => props.theme['orange-500']};

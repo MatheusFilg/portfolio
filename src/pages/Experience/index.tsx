@@ -29,7 +29,7 @@ export function Experience() {
         </div>
         <div>
           <img src={nextlogo} alt="" />
-          Next
+          Next.js
         </div>
       </ImgContainer>
     </InfoContainer>
